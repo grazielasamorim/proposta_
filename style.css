@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(250, 162, 177);
+}
+
+.texto {
+    height: 100vh;
+    width: 100vh;
+}
+
+.texto h1 {
+    font-family: sans-serif;
+    color: red;
+    box-shadow: 5px 5px 5px black;
+}
+
+.texto h2 {
+    font-family: sans-serif;
+    color: rgb(238, 70, 70);
+}
+
+.texto button {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    color: red;
+    background-color: rgb(84, 84, 223);
+}
